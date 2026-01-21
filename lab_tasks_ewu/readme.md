@@ -7,7 +7,7 @@ This file contains all lab_1 assignments and exercises for CSE103
 
 ## 📝 Problems List
 
-[- **Problem_1:** Assign your name, age, and student ID in three separate variables and print them](https://github.com/2026-1-60-070-spec/CSE103/blob/main/lab_tasks_ewu/lab1/problem_1.c)  
+- [**Problem_1:** Assign your name, age, and student ID in three separate variables and print them](https://github.com/2026-1-60-070-spec/CSE103/blob/main/lab_tasks_ewu/lab1/problem_1.c)  
 
 - **Problem_2:** Print the characters `'E', 'S', 'C'` in reverse as `CSE`.  
 
