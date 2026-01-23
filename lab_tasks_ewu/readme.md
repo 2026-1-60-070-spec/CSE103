@@ -27,20 +27,20 @@ This repository contains all **if-else and switch-case based lab tasks** for the
 
 ## 📝 Problems List
 
-- [**Problem_1:** Check whether a given number is positive or negative
+- **Problem_1:** Check whether a given number is positive or negative
 
-- [**Problem_2:** Check whether a given number is even or odd
+- **Problem_2:** Check whether a given number is even or odd
 
-- [**Problem_3:** Print grade based on marks using if-else
+- **Problem_3:** Print grade based on marks using if-else
   - 90–100: A  
   - 80–89: B  
   - 70–79: C  
   - 60–69: D  
   - Below 60: F  
 
-- [**Problem_4:** Find the maximum among three user-input numbers
+- **Problem_4:** Find the maximum among three user-input numbers
 
-- [**Problem_5:** Perform basic arithmetic operations using switch-case 
+- **Problem_5:** Perform basic arithmetic operations using switch-case 
   (Supported operations: +, -, *, /)
 
-- [**Problem_6:** Print the corresponding day of the week (1–7)
+- **Problem_6:** Print the corresponding day of the week (1–7)
